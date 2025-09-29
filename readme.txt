@@ -4,5 +4,5 @@ git has a mutable indx called stage.
 git tracks changes of files 123
 git add 123456789
 git add main
-Creating a new branch is quick AND simple.
+git hong
 
